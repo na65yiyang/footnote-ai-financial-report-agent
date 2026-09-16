@@ -1,7 +1,7 @@
 # Footnote
 
 ## What This Product Does
-Nuvel helps retail investors analyze SEC filings (10-K annual reports, 10-Q quarterly reports)
+Footnote helps retail investors analyze SEC filings (10-K annual reports, 10-Q quarterly reports)
 using AI. It extracts risk signals from financial footnotes, tracks management tone over time,
 calculates financial ratios, and generates an auditable Excel workbook with full source citations.
 
@@ -47,7 +47,7 @@ calculates financial ratios, and generates an auditable Excel workbook with full
 /docker-compose.yml
 ```
 
-## Non-Negotiable Rules
+## Engineering Constraints
 1. Every number in the Excel output must have a source citation (page number + data source)
 2. Every Claude API call must have temperature=0
 3. AlphaVantage calls must always include exponential backoff retry logic
