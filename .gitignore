@@ -27,3 +27,5 @@ frontend/.next/
 # IDE
 .idea/
 .vscode/
+.Rhistory
+.claude/
