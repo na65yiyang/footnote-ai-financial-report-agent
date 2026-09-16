@@ -1,4 +1,4 @@
-# Nuvel — AI-Powered Earnings Analysis Platform
+# Footnote
 
 ## What This Product Does
 Nuvel helps retail investors analyze SEC filings (10-K annual reports, 10-Q quarterly reports)
