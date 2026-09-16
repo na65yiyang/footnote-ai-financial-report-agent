@@ -1,7 +1,6 @@
-# Nuvel — AI-Powered Earnings Analysis Platform
+# Footnote
 
-Analyze SEC 10-K/10-Q filings with AI. Extracts risk signals, tracks management tone,
-calculates financial ratios, and generates a cited Excel workbook.
+AI agent that reads SEC 10-K/10-Q filings, flags hidden risks from footnotes and MD&A, with sentence-level citations.
 
 ## Prerequisites
 
